@@ -2,8 +2,10 @@
 
 /**
  * displays _putchar followed by a new line
- * It gives a return value of 0 
+ * It gives a return value of 0
  */
+
+
 int main(void)
 {
 	_putchar('_');
